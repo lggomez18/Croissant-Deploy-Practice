@@ -1,0 +1,17 @@
+body{
+    background:gold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-size: 25px;
+    font-style: italic;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    background: white;
+}
