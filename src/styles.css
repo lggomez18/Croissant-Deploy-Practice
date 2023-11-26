@@ -8,10 +8,37 @@ h1{
     font-style: italic;
 }
 
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+    background:aliceblue;
+    text-align: justify;
+}
+
+img{
+    width: 100%;
+    border-radius: 20px;
+    display: flex;
+}
+
 a{
     text-decoration: none;
+    font-size: 18px;  
+    color:aliceblue;  
 }
 
 a:hover{
     background: white;
+}
+
+form{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    padding:20px;
+    margin: 25px;
+    background:brown;
+
 }
